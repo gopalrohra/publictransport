@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipsemeMetadata jad="AutoMeter.jad" version="1.7.9">
+   <device group="Nokia Symbian3 SDK 0.8 " name="SymbianEmulator"/>
+   <signing signProject="false"/>
+</eclipsemeMetadata>
